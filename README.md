@@ -4,7 +4,7 @@ Test
 
 <head>
 <p style="text-align:center;">
-<font size="7" face="calibri" color="gold"><align="center"><u><b>Tracy and Tom's Total Travel Service</b></u></font>
+<font size="7" face="calibri" color="gold"><align="center"><u><b>Tom and Tracy's Total Travel Service</b></u></font>
 </head>
 <title>
 Services
